@@ -1,6 +1,6 @@
 # Resources for Statistics
 
-1. **YouTube Video:**
+1. **Free_Code_Camp :**
 
    - [Statistics Machine Learning](https://www.youtube.com/watch?v=xxpc-HPKN28&t=29s&pp=ygUbc3RhdGlzdGljcyBtYWNoaW5lIGxlYXJuaW5n)
 
