@@ -107,3 +107,55 @@ This repository is designed to be **engaging** and **interactive**:
 ## 📁 **Repository Structure Explained**
 
 This repository follows a **logical, well-structured flow**. Here’s what you’ll find in each folder:
+
+### **1. Data Analysis**
+
+- Learn how to load and clean your data, check for missing values, and explore basic statistics.
+- You’ll learn to preprocess data by removing outliers, filling missing values, and normalizing or scaling features.
+
+### **2. Statistics & 3. Probability**
+
+- Gain a solid understanding of statistics, which forms the foundation of many ML algorithms. Learn how to apply **probability theory** to build models that handle uncertainty.
+
+### **4. Inferential Statistics**
+
+- Learn to perform **hypothesis testing**, understand **confidence intervals**, and how to make inferences from data. This section is essential for understanding how to validate model results.
+
+### **5. Feature Engineering**
+
+- This section is dedicated to teaching you how to enhance your data by **extracting meaningful features** and **transforming data** to make it ready for ML models.
+
+### **6. EDA (Exploratory Data Analysis)**
+
+- Visualize your data to uncover hidden patterns. You’ll use **Python libraries** like **Pandas** and **Matplotlib** to explore, visualize, and analyze data distributions.
+
+### **7. Introduction to ML**
+
+- Start with a basic introduction to Machine Learning, where you’ll learn the differences between **supervised**, **unsupervised**, and **reinforcement learning**.
+- You’ll also start working with simple models like **Linear Regression** and **Logistic Regression**.
+
+### **8. ML Algorithms**
+
+- This is where you dive into advanced models, including **decision trees**, **support vector machines**, **k-nearest neighbors**, and **neural networks**.
+
+### **Insight Images**
+
+- Here you’ll find all the charts, graphs, and visual explanations used in various sections to help clarify concepts.
+
+---
+
+## 📌 **Contribute**
+
+Machine Learning is an ever-evolving field, and contributions are always welcome. If you find anything that could be improved, or if you want to add new features, feel free to contribute. All pull requests are appreciated!
+
+---
+
+## 📌 **License**
+
+This repository is licensed under the **MIT License**.
+
+---
+
+## 🎉 **Happy Learning!**
+
+We hope this repository serves as a valuable resource in your Machine Learning journey. Enjoy exploring and feel free to reach out with questions or suggestions. We’re here to learn together! 💡🚀
