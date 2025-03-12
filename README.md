@@ -92,9 +92,18 @@ Navigate through each section to learn different aspects of Machine Learning:
 - 📊 [Clustering (K-Means, Hierarchical)](#)
 - 📉 [Dimensionality Reduction (PCA, t-SNE)](#)
 
-### 📂 **Insight Images**
+### 🔹 **9. Machine Learning Algorithms Demo**
 
----
+- 📉 [Simple Linear Regression Model Building using Sample Dataset](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/09.ML_Algorithms_Demo/01.Simple_Linear_Regression.ipynb)
+
+### 🔹 **10. Machine Learning Algorithms Implementation**
+
+- 📊 [Linear Regression Implementation using Python](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/10.Implementation_of_ML_Algo/01.Linear_Regression_Implementation.md)
+- 🔢 [Ridge , Lasso and Elastic Net Regression Implementation using Python](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/10.Implementation_of_ML_Algo/02.Ridge_Lasso_Implementation.md)
+
+### 🔹 **Images**
+
+## -[All Images for the Machine learing ALgo Here](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/tree/main/Insight_Images)
 
 ## 🎯 **How to Use This Repository**
 
