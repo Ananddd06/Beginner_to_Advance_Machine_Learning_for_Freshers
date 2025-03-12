@@ -10,15 +10,89 @@ This guide is not just a collection of code—it’s a complete educational reso
 
 Navigate through each section to learn different aspects of Machine Learning:
 
-1️⃣ [📊 Data Analysis](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/tree/main/1.Data%20Analysis)  
-2️⃣ [📈 Statistics](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/tree/main/2.Statistics)  
-3️⃣ [🎲 Probability](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/tree/main/3.Probability)  
-4️⃣ [📉 Inferential Statistics](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/tree/main/4.Inferential_Statistics)  
-5️⃣ [🛠️ Feature Engineering](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/tree/main/5.Feature_Engineering)  
-6️⃣ [🔍 Exploratory Data Analysis (EDA)](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/tree/main/6.EDA)  
-7️⃣ [📚 Introduction to ML](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/tree/main/7.Introduction_to_ML)  
-8️⃣ [🤖 Machine Learning Algorithms](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/tree/main/8.ML_Algorithms)  
-📂 [🖼️ Insight Images](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/tree/main/Insight_Images)
+## 📌 **Table of Contents**
+
+### 🔹 **1. Data Analysis**
+
+- 📂 [Introduction to Data Analysis](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/tree/main/1.Data%20Analysis))
+- 🔍 [Matplotlib Introduction](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/01.Data%20Analysis/Matplotlib.ipynb)
+- 📊 [Numpy](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/01.Data%20Analysis/numpy.ipynb)
+- 📊 [Pandas](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/01.Data%20Analysis/pandas.ipynb)
+- 📂 [Read From various Source](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/01.Data%20Analysis/read_data_from_various_source.ipynb)
+
+### 🔹 **2. Statistics**
+
+- 📂 [Types Of Statistics](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/02.Statistics/1.TypesOfStatistics.md)
+- 🎯 [Population vs Sample](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/02.Statistics/2.Population_vs_Sample.md)
+- 📈 [Measures of Central Tendency](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/02.Statistics/3.Measure_of_Central_Tendency.md)
+- 📉 [Variance & Standard Deviation](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/02.Statistics/4.Variance_Measure_of_Dispersion.md)
+- 🔄 [Why dividing by n-1](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/02.Statistics/5.Why%20_sample_variance_by_n-1.md)
+- 📊 [Standard Deviation](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/02.Statistics/6.Standard_Deviation.md)
+- 🎯 [Introduction to Variable](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/02.Statistics/7.Variable.md)
+- 📈 [Random Variable](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/02.Statistics/8.Random_Variable.md)
+- 📉 [Percentage and Percentil](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/02.Statistics/9.Percentage_Percentile_Quantile.md)
+- 🔄 [Covariance](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/02.Statistics/10.Covariance.md)
+- 📊 [Correlation](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/02.Statistics/11.Correlation.md)
+- 🔬 [Resources for Learning From Youtube](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/02.Statistics/Resources.md)
+
+### 🔹 **3. Probability**
+
+- 🎲 [What is Probability ?](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/1.What_is_Probability%3F.md)
+- 📊 [Probability Distributions](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/2.Probability_Distribution_Functions.md)
+- 🎲 [Types of Probability Distribution](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/3.Types_of_PDF.md)
+- 🎯 [Bernoulli Distribution](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/4.Bernoulli_Distribution.md)
+- 📊 [Bionomial Distributions](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/5.Bionomial_Distribution.md)
+- 🎲 [Poision Distribution](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/6.Poission_Distribution.md)
+- 🎯 [Normal or Gaussian Distribution](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/7.Normal_Distribution.md)
+
+### 🔹 **4. Inferential Statistics**
+
+<!-- Yet to do this  -->
+
+- 🔬 [Hypothesis Testing](#)
+- 🎯 [Confidence Intervals](#)
+- 🔢 [p-values & Significance Tests](#)
+
+### 🔹 **5. Feature Engineering**
+
+<!-- Yet to do this -->
+
+- 🛠️ [Handling Missing Data](#)
+- 🔄 [Feature Scaling & Normalization](#)
+- 🎯 [Feature Selection Techniques](#)
+
+### 🔹 **6. Exploratory Data Analysis (EDA)**
+
+<!-- Yet to do this  -->
+
+- 📊 [Data Distribution Analysis](#)
+- 🔍 [Outlier Detection](#)
+- 📈 [Correlation & Relationships](#)
+
+### 🔹 **7. Introduction to ML**
+
+- 🔄 [Introduction to Machine Learning](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/07.Introduction_to_ML/1.Introduction.md)
+- 🤖 [Types of Machine Learning](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/07.Introduction_to_ML/2.Types_of_ML.md)
+- 🔄 [Equation of Line , 3D and HyperPlane](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/07.Introduction_to_ML/3.Eq_of_line_3d_hyperplane.md)
+- ⚡ [Distance of the point from the Plane](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/07.Introduction_to_ML/4.Distance_of_a_point_from_plane.md)
+- 🔬 [Instance vs Model Based Learing](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/07.Introduction_to_ML/5.Instance_based_learning_and_ModelBased_Learning.md)
+
+### 🔹 **8. Machine Learning Algorithms**
+
+#### 🔹 **8.1 Supervised Learning**
+
+- 📈 [Linear Regression](#)
+- 📊 [Ridge Regression , Lasso Regression and Elastic Net Regression](#)
+- 🔢 [Logistic Regression](#)
+- 🌳 [Decision Trees & Random Forest](#)
+- ⚙️ [Support Vector Machines (SVM)](#)
+
+#### 🔹 **8.2 Unsupervised Learning**
+
+- 📊 [Clustering (K-Means, Hierarchical)](#)
+- 📉 [Dimensionality Reduction (PCA, t-SNE)](#)
+
+### 📂 **Insight Images**
 
 ---
 
