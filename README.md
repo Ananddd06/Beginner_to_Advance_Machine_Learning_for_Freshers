@@ -10,8 +10,6 @@ This guide is not just a collection of code—it’s a complete educational reso
 
 Navigate through each section to learn different aspects of Machine Learning:
 
-## 📌 **Table of Contents**
-
 ### 🔹 **1. Data Analysis**
 
 - 📂 [Introduction to Data Analysis](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/tree/main/1.Data%20Analysis))
