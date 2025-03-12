@@ -1,0 +1,54 @@
+class LinearRegression:
+    def __init__(self, alpha=0.1, iterations=1000):
+        self.alpha = alpha  # Learning rate
+        self.iterations = iterations  # Number of iterations
+        self.beta_0 = 0  # Intercept (bias term)
+        self.beta_1 = 0  # Slope (coefficient)
+        
+    def compute_cost(self, X, y):
+        m = len(y)
+        predictions = self.predict(X)
+        cost = (1 / (2 * m)) * np.sum((predictions - y) ** 2)
+        return cost
+    
+    def predict(self, X):
+        return self.beta_0 + self.beta_1 * X
+    
+    def gradient_descent(self, X, y):
+        m = len(y)
+        cost_history = []
+
+        for _ in range(self.iterations):
+            predictions = self.predict(X)
+            
+            # Compute gradients
+            beta_0_grad = (1 / m) * np.sum(predictions - y)
+            beta_1_grad = (1 / m) * np.sum((predictions - y) * X)
+            
+            # Update parameters
+            self.beta_0 -= self.alpha * beta_0_grad
+            self.beta_1 -= self.alpha * beta_1_grad
+            
+            # Save cost for plotting
+            cost_history.append(self.compute_cost(X, y))
+        
+        return cost_history
+
+    def fit(self, X, y):
+        # This is where gradient descent is called and the model is trained
+        cost_history = self.gradient_descent(X, y)
+        return cost_history
+
+    def get_parameters(self):
+        return self.beta_0, self.beta_1
+
+
+# Create LinearRegression instance and train the model
+model = LinearRegression(alpha=0.1, iterations=1000)
+cost_history = model.fit(X, y)  # Calling fit() to train the model
+
+
+# Output the parameters
+beta_0, beta_1 = model.get_parameters()
+print(f"Intercept (beta_0): {beta_0}")
+print(f"Slope (beta_1): {beta_1}")
