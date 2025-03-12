@@ -81,9 +81,9 @@ Navigate through each section to learn different aspects of Machine Learning:
 
 #### 🔹 **8.1 Supervised Learning**
 
-- 📈 [Linear Regression](#)
-- 📊 [Ridge Regression , Lasso Regression and Elastic Net Regression](#)
-- 🔢 [Logistic Regression](#)
+- 📈 [Linear Regression](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/tree/main/08.ML_Algorithms/Supervised_Learning/01.Linear_Regression)
+- 📊 [Ridge Regression , Lasso Regression and Elastic Net Regression](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/tree/main/08.ML_Algorithms/Supervised_Learning/02.Ridge_lasso_ElasticNet)
+- 🔢 [Logistic Regression](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/tree/main/08.ML_Algorithms/Supervised_Learning/03.Logistic_Regression)
 - 🌳 [Decision Trees & Random Forest](#)
 - ⚙️ [Support Vector Machines (SVM)](#)
 
