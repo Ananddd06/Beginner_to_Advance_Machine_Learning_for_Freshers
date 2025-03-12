@@ -103,7 +103,7 @@ Navigate through each section to learn different aspects of Machine Learning:
 
 ### 🔹 **Images**
 
-## -[All Images for the Machine learing ALgo Here](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/tree/main/Insight_Images)
+- [All Images for the Machine learing ALgo Here](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/tree/main/Insight_Images)
 
 ## 🎯 **How to Use This Repository**
 
