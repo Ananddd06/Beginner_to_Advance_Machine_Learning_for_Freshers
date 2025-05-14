@@ -96,8 +96,26 @@ Navigate through each section to learn different aspects of Machine Learning:
 
 ### 🔹 **10. Machine Learning Algorithms Implementation**
 
+#### 🔹 **10.1 Linear Regression**
+
 - 📊 [Linear Regression Implementation using Python](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/10.Implementation_of_ML_Algo/01.Linear_Regression_Implementation.md)
 - 🔢 [Ridge , Lasso and Elastic Net Regression Implementation using Python](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/10.Implementation_of_ML_Algo/02.Ridge_Lasso_Implementation.md)
+- 📉 [Linear Regression Implementation with Project Dataset ](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/10.Implementation_of_ML_Algo/1.Linear_Regression/03.Linear_Regression_Implementation_Using_Dataset.md)
+- 🔢 [Ridge , Lasso Regression Implementation with Project Dataset](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/10.Implementation_of_ML_Algo/1.Linear_Regression/04.Ridge_using_Dataset.md)
+- 📉 [Lasso Regression Implementation with Project Dataset](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/10.Implementation_of_ML_Algo/1.Linear_Regression/05.Lasso_using_Dataset.md)
+- 🔢 [Hyper Parameter Tuning for all the Linear , Ridge , Lasso](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/10.Implementation_of_ML_Algo/1.Linear_Regression/06.HyperParaMeter_tuining.md)
+
+#### 🔹 **10.2 Logistic Regression**
+
+### 🔹 **11. Machine Learning Projects**
+
+#### 🔹 **11.1 Algerian Forest Fire Prediction using the Regression**
+
+- 🔥 [Predict the fire before it Occurs](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/tree/main/11.Projects/01.Algerian_Forest_Fires)
+
+#### 🔹 **11.2 Student Performance Prediction**
+
+-👨🏻‍🎓 [Always Study Study]()
 
 ### 🔹 **Images**
 
