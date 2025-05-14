@@ -115,7 +115,7 @@ Navigate through each section to learn different aspects of Machine Learning:
 
 #### 🔹 **11.2 Student Performance Prediction**
 
--👨🏻‍🎓 [Always Study Study]()
+- 👨🏻‍🎓 [Always Study Study]()
 
 ### 🔹 **Images**
 
