@@ -111,7 +111,7 @@ Navigate through each section to learn different aspects of Machine Learning:
 
 #### 🔹 **11.1 Algerian Forest Fire Prediction using the Regression**
 
-- 🔥 [Predict the fire before it Occurs](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/tree/main/11.Projects/01.Algerian_Forest_Fires)
+- 🔥 [Predict the fire before it Occurs](https://github.com/Ananddd06/Algerian_Forest_fire_Prediction_Regression_Type)
 
 #### 🔹 **11.2 Student Performance Prediction**
 
