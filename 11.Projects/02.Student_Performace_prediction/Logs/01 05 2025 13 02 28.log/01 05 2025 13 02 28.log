@@ -1,0 +1,5 @@
+[ 2025-01-05 13:02:28,967 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-01-05 13:02:28,977 ] 97 werkzeug - INFO -  * Debugger PIN: 859-190-233
+[ 2025-01-05 13:02:36,684 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Jan/2025 13:02:36] "GET /predict HTTP/1.1" 200 -
+[ 2025-01-05 13:02:57,090 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Jan/2025 13:02:57] "POST /predict HTTP/1.1" 200 -
+[ 2025-01-05 13:11:17,432 ] 97 werkzeug - INFO -  * Detected change in '/Users/anand/Desktop/mlProject/src/pipeline/train_pipeline.py', reloading

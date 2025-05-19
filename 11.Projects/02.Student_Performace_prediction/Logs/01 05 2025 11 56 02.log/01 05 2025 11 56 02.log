@@ -1,0 +1,10 @@
+[ 2025-01-05 11:56:02,508 ] 26 root - INFO - Starting data ingestion process.
+[ 2025-01-05 11:56:02,511 ] 29 root - INFO - Dataset loaded successfully.
+[ 2025-01-05 11:56:02,514 ] 34 root - INFO - Splitting dataset into train and test sets.
+[ 2025-01-05 11:56:02,517 ] 39 root - INFO - Data ingestion process completed successfully.
+[ 2025-01-05 11:56:02,520 ] 69 root - INFO - Loaded training and testing data.
+[ 2025-01-05 11:56:02,520 ] 49 root - INFO - Categorical columns: ['gender', 'race/ethnicity', 'parental level of education', 'lunch', 'test preparation course']
+[ 2025-01-05 11:56:02,520 ] 50 root - INFO - Numerical columns: ['writing score', 'reading score']
+[ 2025-01-05 11:56:02,521 ] 82 root - INFO - Applying preprocessing object on the data.
+[ 2025-01-05 11:56:02,530 ] 94 root - INFO - Saving preprocessing object.
+[ 2025-01-05 11:56:02,534 ] 61 root - ERROR - Error in main: name 'preprocessor_path' is not defined

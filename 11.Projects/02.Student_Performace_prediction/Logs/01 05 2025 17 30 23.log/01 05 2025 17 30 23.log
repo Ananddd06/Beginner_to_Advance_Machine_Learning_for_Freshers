@@ -1,0 +1,15 @@
+[ 2025-01-05 17:30:23,721 ] 26 root - INFO - Starting data ingestion process.
+[ 2025-01-05 17:30:23,725 ] 29 root - INFO - Dataset loaded successfully.
+[ 2025-01-05 17:30:23,729 ] 34 root - INFO - Splitting dataset into train and test sets.
+[ 2025-01-05 17:30:23,734 ] 39 root - INFO - Data ingestion process completed successfully.
+[ 2025-01-05 17:30:23,736 ] 69 root - INFO - Loaded training and testing data.
+[ 2025-01-05 17:30:23,737 ] 49 root - INFO - Categorical columns: ['gender', 'race/ethnicity', 'parental level of education', 'lunch', 'test preparation course']
+[ 2025-01-05 17:30:23,737 ] 50 root - INFO - Numerical columns: ['writing score', 'reading score']
+[ 2025-01-05 17:30:23,738 ] 82 root - INFO - Applying preprocessing object on the data.
+[ 2025-01-05 17:30:23,749 ] 94 root - INFO - Saving preprocessing object.
+[ 2025-01-05 17:30:23,751 ] 29 root - INFO - Splitting the train and test datasets
+[ 2025-01-05 17:30:23,752 ] 50 root - INFO - Evaluating models
+[ 2025-01-05 17:30:25,176 ] 64 root - INFO - Best model: Ridge with score: 0.880567179073392
+[ 2025-01-05 17:30:25,178 ] 77 root - INFO - Predicted values are: [76.39027736 58.83270079 76.99532138 76.82610958 87.65402777 78.93680686
+ 64.70578251 53.02745545 74.13483438 49.35046067]...
+[ 2025-01-05 17:30:25,178 ] 80 root - INFO - R-squared score: 0.880567179073392
