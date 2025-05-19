@@ -66,6 +66,10 @@ Embark on your journey to become a proficient **Machine Learning Engineer** with
   _A comprehensive course covering machine learning algorithms, natural language processing, and deployment strategies._  
   🔗 [Enroll Here](https://www.udemy.com/course/complete-machine-learning-nlp-bootcamp-mlops-deployment/)
 
+  - **Complete MLOps Bootcamp With 10+ End To End ML Projects – Udemy**  
+    _This bootcamp will not only introduce you to the concepts of MLOps but will take you through real-world, hands-on data science projects_  
+    🔗 [Enroll Here](https://www.udemy.com/course/complete-mlops-bootcamp-with-10-end-to-end-ml-projects/?couponCode=CP130525)
+
 - **Complete Machine Learning Playlist – YouTube**  
   _A series of tutorials covering various machine learning topics._  
   🔗 [Watch Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
