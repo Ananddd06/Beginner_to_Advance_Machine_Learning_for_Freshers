@@ -6,6 +6,25 @@ This guide is not just a collection of code—it’s a complete educational reso
 
 ---
 
+# 🛠️ Tools & Tech Stack Used
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MLflow-0194EF?logo=mlflow&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Statistics-F57C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CI%2FCD-43A047?logo=github&logoColor=white&style=for-the-badge" />
+</p>
+
+---
+
 ## 📌 **Table of Contents**
 
 Navigate through each section to learn different aspects of Machine Learning:
