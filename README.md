@@ -88,7 +88,7 @@ Navigate through each section to learn different aspects of Machine Learning:
 - 📊 [Probability Distributions](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/2.Probability_Distribution_Functions.md)
 - 🎲 [Types of Probability Distribution](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/3.Types_of_PDF.md)
 - 🎯 [Bernoulli Distribution](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/4.Bernoulli_Distribution.md)
-- 📊 [Bionomial Distributions](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/5.Bionomial_Distribution.md)
+- [Bionomial Distributions](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/5.Bionomial_Distribution.md)
 - 🎲 [Poision Distribution](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/6.Poission_Distribution.md)
 - 🎯 [Normal or Gaussian Distribution](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/7.Normal_Distribution.md)
 
@@ -101,6 +101,8 @@ Navigate through each section to learn different aspects of Machine Learning:
 - 🔢 [Student T-test](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/04.Inferential_Statistics/03.Student't_Test.md)
 - 🔄 [Python Code for the Z-test and T-test from scratch](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/04.Inferential_Statistics/04.Z_Test%26T-Test_From_Scratch.md)
 - 🔬 [Type 1 and Type 2 Error](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/04.Inferential_Statistics/05.Type1_Type2_Error.md)
+- 📊 [Confidence Interval and Margin Error](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/04.Inferential_Statistics/06.Confidence_Interval_and_marginRate.md)
+- 🔢 [Python Code for the CI](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/04.Inferential_Statistics/07.Python_Code_for_CI.md)
 
 ### 🔹 **5. Feature Engineering**
 
