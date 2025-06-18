@@ -114,11 +114,10 @@ Navigate through each section to learn different aspects of Machine Learning:
 
 ### 🔹 **6. Exploratory Data Analysis (EDA)**
 
-<!-- Yet to do this  -->
-
-- 📊 [Data Distribution Analysis](#)
-- 🔍 [Outlier Detection](#)
-- 📈 [Correlation & Relationships](#)
+- 📊 [Steps for Perfect EDA](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/06.EDA/01.Steps_For_Perfect_EDA.md)
+- 🔍 [Steps for NLP EDA Process](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/06.EDA/02.NLP_eda_guide.md)
+- 📈 [Visualization guide for the ploting the graph](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/06.EDA/03.visualization_guide_for_ploting.md)
+- 📊 [Full EDA Process Red Wine Dataset](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/06.EDA/EDA_Examples_For_Understanding/redwine.ipynb)
 
 ### 🔹 **7. Introduction to ML**
 
