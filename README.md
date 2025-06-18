@@ -88,7 +88,7 @@ Navigate through each section to learn different aspects of Machine Learning:
 - 📊 [Probability Distributions](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/2.Probability_Distribution_Functions.md)
 - 🎲 [Types of Probability Distribution](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/3.Types_of_PDF.md)
 - 🎯 [Bernoulli Distribution](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/4.Bernoulli_Distribution.md)
-- [Bionomial Distributions](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/5.Bionomial_Distribution.md)
+- 📊 [Bionomial Distributions](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/5.Bionomial_Distribution.md)
 - 🎲 [Poision Distribution](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/6.Poission_Distribution.md)
 - 🎯 [Normal or Gaussian Distribution](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/7.Normal_Distribution.md)
 
