@@ -96,9 +96,11 @@ Navigate through each section to learn different aspects of Machine Learning:
 
 <!-- Yet to do this  -->
 
-- 🔬 [Hypothesis Testing](#)
-- 🎯 [Confidence Intervals](#)
-- 🔢 [p-values & Significance Tests](#)
+- 🔬 [Introdcution Towards Hypothesis Testing](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/04.Inferential_Statistics/01.Introduction_towards_Stats.md)
+- 🎯 [Z-Test](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/04.Inferential_Statistics/02.Z_Test_Intution.md)
+- 🔢 [Student T-test](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/04.Inferential_Statistics/03.Student't_Test.md)
+- 🔄 [Python Code for the Z-test and T-test from scratch](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/04.Inferential_Statistics/04.Z_Test%26T-Test_From_Scratch.md)
+- 🔬 [Type 1 and Type 2 Error](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/04.Inferential_Statistics/05.Type1_Type2_Error.md)
 
 ### 🔹 **5. Feature Engineering**
 
