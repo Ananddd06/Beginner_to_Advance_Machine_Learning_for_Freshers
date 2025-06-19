@@ -90,7 +90,9 @@ Navigate through each section to learn different aspects of Machine Learning:
 - 🎯 [Bernoulli Distribution](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/4.Bernoulli_Distribution.md)
 - 📊 [Bionomial Distributions](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/5.Bionomial_Distribution.md)
 - 🎲 [Poision Distribution](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/6.Poission_Distribution.md)
+- 🔬 [Bernoulli , Poission and Bionomial probability Sums](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/07.Bernoulli_Poission_Bionomial_Sums.md)
 - 🎯 [Normal or Gaussian Distribution](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/7.Normal_Distribution.md)
+- 🎲 [Standard Normal Distribution](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/09.Standard_Normal_Distribution.md)
 
 ### 🔹 **4. Inferential Statistics**
 
@@ -103,6 +105,8 @@ Navigate through each section to learn different aspects of Machine Learning:
 - 🔬 [Type 1 and Type 2 Error](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/04.Inferential_Statistics/05.Type1_Type2_Error.md)
 - 📊 [Confidence Interval and Margin Error](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/04.Inferential_Statistics/06.Confidence_Interval_and_marginRate.md)
 - 🔢 [Python Code for the CI](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/04.Inferential_Statistics/07.Python_Code_for_CI.md)
+- 🔄 [Chi Square Test - (Used for Category Features)](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/04.Inferential_Statistics/08.Chi_Square_Test.md)
+- 🔬 [Why Bootstrap Tools are used in Statistics ?](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/04.Inferential_Statistics/09.Why_BootStrap_Tools_is_Required.md)
 
 ### 🔹 **5. Feature Engineering**
 
