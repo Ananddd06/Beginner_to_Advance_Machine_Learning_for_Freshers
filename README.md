@@ -93,6 +93,7 @@ Navigate through each section to learn different aspects of Machine Learning:
 - 🔬 [Bernoulli , Poission and Bionomial probability Sums](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/07.Bernoulli_Poission_Bionomial_Sums.md)
 - 🎯 [Normal or Gaussian Distribution](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/7.Normal_Distribution.md)
 - 🎲 [Standard Normal Distribution](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/09.Standard_Normal_Distribution.md)
+- 🔬 [Long Tail Distribution (For Understanding About the Skewness)](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/11.Long_tail_Distribution.md)
 
 ### 🔹 **4. Inferential Statistics**
 
