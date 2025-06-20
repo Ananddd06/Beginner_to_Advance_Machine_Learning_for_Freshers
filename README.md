@@ -94,6 +94,7 @@ Navigate through each section to learn different aspects of Machine Learning:
 - 🎯 [Normal or Gaussian Distribution](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/7.Normal_Distribution.md)
 - 🎲 [Standard Normal Distribution](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/09.Standard_Normal_Distribution.md)
 - 🔬 [Long Tail Distribution (For Understanding About the Skewness)](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/11.Long_tail_Distribution.md)
+- 🎯 [Weibull Distribution](<https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/03.Probability/12.Weibull_Distribution(for%20skewness).md>)
 
 ### 🔹 **4. Inferential Statistics**
 
