@@ -114,9 +114,13 @@ Navigate through each section to learn different aspects of Machine Learning:
 
 <!-- Yet to do this -->
 
-- 🛠️ [Handling Missing Data](#)
-- 🔄 [Feature Scaling & Normalization](#)
-- 🎯 [Feature Selection Techniques](#)
+- 🛠️ [Feature_Engineering_Complete_Guide](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/05.Feature_Engineering/01.Feature_Engineering_Complete_Guide.md)
+- 🔄 [Understanding_Data](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/05.Feature_Engineering/02.Understanding_Data.md)
+- 🎯 [Handling Missing Values](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/05.Feature_Engineering/03.Handling_Missing_values.md)
+- 🛠️ [Handling Outliers](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/05.Feature_Engineering/04.Handling_Outliers.md)
+- 🔄 [Encoding Categorical Features](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/05.Feature_Engineering/05.Encoding_Categorical_Features.md)
+- 🎯 [Scaling and Normalization](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/05.Feature_Engineering/06.Scaling_and_Normalization.md)
+- 🛠️ [Handling Imbalance Features](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers/blob/main/05.Feature_Engineering/07.Handling_Imbalance_Features.md)
 
 ### 🔹 **6. Exploratory Data Analysis (EDA)**
 
