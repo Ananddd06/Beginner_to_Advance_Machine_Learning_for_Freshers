@@ -1,9 +1,0 @@
-[ 2025-01-05 10:46:03,086 ] 23 root - INFO - Starting data ingestion process.
-[ 2025-01-05 10:46:03,088 ] 26 root - INFO - Dataset loaded successfully.
-[ 2025-01-05 10:46:03,092 ] 31 root - INFO - Splitting dataset into train and test sets.
-[ 2025-01-05 10:46:03,096 ] 36 root - INFO - Data ingestion process completed successfully.
-[ 2025-01-05 10:46:03,099 ] 69 root - INFO - Loaded training and testing data.
-[ 2025-01-05 10:46:03,099 ] 49 root - INFO - Categorical columns: ['gender', 'race/ethnicity', 'parental level of education', 'lunch', 'test preparation course']
-[ 2025-01-05 10:46:03,099 ] 50 root - INFO - Numerical columns: ['writing score', 'reading score']
-[ 2025-01-05 10:46:03,100 ] 82 root - INFO - Applying preprocessing object on the data.
-[ 2025-01-05 10:46:03,112 ] 94 root - INFO - Saving preprocessing object.
