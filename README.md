@@ -120,13 +120,25 @@ A curated list of my fully implemented end-to-end Machine Learning projects that
 
 ## 🔐 Network Security Attack Detection Project
 
-An end-to-end machine learning pipeline to detect network intrusions using the **CICIDS2017** dataset. Integrated with:
+An enterprise-grade, end-to-end machine learning pipeline designed to detect network intrusions using the **CICIDS2017** dataset. This project is built with production-ready MLOps tools and a modular CI/CD structure.
 
-- ✅ **MLflow** for experiment tracking
-- ✅ **DVC** for data version control
-- ✅ **DagsHub** for collaborative development
-- ✅ **Evidently AI** to monitor **data drift** in real-time
-- ✅ Modular code structure and reusable pipeline
+### 🔧 Key Features
+
+- ✅ **MLflow** for experiment tracking and model versioning
+- ✅ **DVC** for efficient and scalable data version control
+- ✅ **DagsHub** for collaborative versioning and experiment tracking
+- ✅ **Evidently AI** for real-time **data drift detection**
+- ✅ **Modular and scalable codebase** with reusable pipeline components
+- ✅ **GitHub Actions** for fully automated **CI/CD pipelines** (testing, linting, deployment)
+
+### 🔭 Planned Enhancements (Coming Soon)
+
+- 🔄 **Grafana + Prometheus** for real-time monitoring of model and data metrics
+- ☁️ **Deployment-ready setup for** **AWS**, **Azure**, and **GCP** with CI/CD integration
+
+### 📊 Tech Stack
+
+- `Python`, `Sklearn`, `Pandas`, `MLflow`, `DVC`, `Evidently AI`, `Docker`, `GitHub Actions`, _(Grafana, Prometheus, AWS/GCP - planned)_
 
 🔗 [GitHub Repository](https://github.com/Ananddd06/Network_Security_end_to_end_Mlops_DVC_Mlflow)
 
