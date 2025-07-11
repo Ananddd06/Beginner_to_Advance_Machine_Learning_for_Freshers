@@ -112,6 +112,56 @@ Click any section below to explore:
 
 ---
 
+## 🚀 End-to-End Machine Learning Projects
+
+A curated list of my fully implemented end-to-end Machine Learning projects that include complete MLOps integration with tools like **MLflow**, **DVC**, **DagsHub**, and **Evidently AI** for real-world deployment, monitoring, and reproducibility.
+
+---
+
+## 🔐 Network Security Attack Detection Project
+
+An end-to-end machine learning pipeline to detect network intrusions using the **CICIDS2017** dataset. Integrated with:
+
+- ✅ **MLflow** for experiment tracking
+- ✅ **DVC** for data version control
+- ✅ **DagsHub** for collaborative development
+- ✅ **Evidently AI** to monitor **data drift** in real-time
+- ✅ Modular code structure and reusable pipeline
+
+🔗 [GitHub Repository](https://github.com/Ananddd06/Network_Security_end_to_end_Mlops_DVC_Mlflow)
+
+---
+
+## 🗽 US Visa Approval Prediction
+
+An end-to-end ML project to predict the outcome of US visa applications using historical data.
+
+- 📊 Exploratory Data Analysis
+- 🔍 Feature Engineering
+- ⚙️ Model Building & Evaluation
+- ✅ Deployment-ready pipeline structure
+- 📁 Clear file organization with logs and artifacts
+
+🔗 [GitHub Repository](https://github.com/Ananddd06/US_Visa_Prediction_ML)
+
+---
+
+## 🛠️ Generic End-to-End ML Project Template (With DagsHub, MLflow, DVC)
+
+A reusable, production-grade ML project template for any use case.
+
+- 🔁 CI/CD-ready ML workflow
+- 💾 DVC integrated for data versioning
+- 🧪 MLflow integration for model lifecycle
+- 🧭 Tracking with DagsHub
+- 📉 Drift monitoring using Evidently AI
+
+🔗 [GitHub Repository](https://github.com/Ananddd06/End_to_End_ML_Project_with_DagsHub_Mlflow_DVC)
+
+---
+
+> 💡 These projects are fully modular and scalable — perfect for deployment, collaborative research, or interview-ready demonstrations.
+
 ## 💡 Contribution Guidelines
 
 This repo is designed to grow with the community:
