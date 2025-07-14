@@ -131,7 +131,7 @@ An enterprise-grade, end-to-end machine learning pipeline designed to detect net
 - ✅ **Modular and scalable codebase** with reusable pipeline components
 - ✅ **GitHub Actions** for fully automated **CI/CD pipelines** (testing, linting, deployment)
 
-### 🔭 Planned Enhancements (Coming Soon)
+### 🔭 Planned Enhancements 
 
 - 🔄 **Grafana + Prometheus** for real-time monitoring of model and data metrics
 - ☁️ **Deployment-ready setup for** **AWS**, **Azure**, and **GCP** with CI/CD integration
